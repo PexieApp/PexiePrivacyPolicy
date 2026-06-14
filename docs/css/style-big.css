@@ -1,0 +1,62 @@
+body {
+    background-color: light-gray;
+    font-family: -apple-system, "Helvetica Neue", "Lucida Grande";
+    font-size: 16px;
+}
+
+div.wrapper {
+    margin: auto;
+    max-width: 35em;
+    min-width: 20em;
+    padding: 10px;
+}
+
+div.titles {
+    margin-left: 10px;
+}
+div.main {
+}
+
+.center {
+    display: table;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 100;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+h6 {
+    font-size: 12px;
+    font-weight: 600;
+    color: gray;
+}
+
+img.app-store {
+    margin: 10px;
+}
+img.app-icon {
+    margin: 10px;
+    width: 120px;
+    height: 120px;
+}
+
+footer{
+    color: gray;
+}
+
+p {
+    max-width: 35em;
+}
