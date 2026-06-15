@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Pexie Vector</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.47981196%" x2="50%" y2="97.4671328%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#DEE6DE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FF5E3A" offset="0%"></stop>
+            <stop stop-color="#FF2A68" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.658243%" id="linearGradient-3">
+            <stop stop-color="#4A4A4A" offset="0%"></stop>
+            <stop stop-color="#2B2B2B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Background" fill="url(#linearGradient-1)" opacity="0.757699275" x="0" y="0" width="1024" height="1024" rx="230"></rect>
+        <path d="M535,248 L801,248 C838,248 872,280 872,317 C872,354 871.427272,672.15758 872,708.269178 C871.427272,744.380775 838.320007,775.720143 803.049988,775.720143 C767.779968,775.720143 535,776 535,776 L535,680 L787,680 C787,680 808,677 808,656 L808,368 C808,347 787,344 787,344 L535,344 L535,248 Z" id="Shape-Red" fill="url(#linearGradient-2)"></path>
+        <path d="M487,248 L223,248 C186,248 152,280 152,317 C152,354 152.572728,672.15758 152,708.269178 C152.572728,744.380775 185.679993,775.720143 220.950012,775.720143 C256.220032,775.720143 487,776 487,776 L487,680 L269,680 C269,680 248,677 248,656 C248,635 269,632 269,632 L739,632 C739,632 759,629 759,608 C759,587 739,584 739,584 L269,584 C269,584 248,581 248,560 C248,539 269,536 269,536 L739,536 C739,536 759,533 759,512 C759,491 739,488 739,488 L269,488 C269,488 248,485 248,464 C248,443 269,440 269,440 L739,440 C739,440 759,437 759,416 C759,395 739,392 739,392 L269,392 C269,392 248,389 248,368 C248,347 269,344 269,344 L487,344 L487,248 Z" id="Shape-Black" fill="url(#linearGradient-3)"></path>
+    </g>
+</svg>
